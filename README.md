@@ -12,3 +12,4 @@ Wynncraft Recreation as Minecraft 1.18 server.
 
 
 (The old bukkit implementation is archived, but more complete, you can find it [here](https://github.com/wynnlab/wynnlab-core))
+asd
